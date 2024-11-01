@@ -6,13 +6,13 @@ This project is designed for managing devices, groups, and domains across variou
 
 To start the project, follow these steps:
 1. **Compile** all Java files with:
-   """
+   ```
    javac *.java
-   """
+   ```
 2. **Run** the main application with:
-   """
+   ```
    java Main
-   """
+   ```
 
 ## Project Structure
 
