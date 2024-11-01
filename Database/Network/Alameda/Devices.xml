@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deviceList>
+    <Device>
+        <Name>Device5</Name>
+        <Password>abcd1234</Password>
+        <Group/>
+        <ipAddress>192.168.1.5</ipAddress>
+        <ipv6Address>2001:0db8:85a3:0000:0000:8a2e:0370:7335</ipv6Address>
+        <Domain>/Alameda</Domain>
+    </Device>
+</deviceList>
